@@ -7,9 +7,11 @@
 
 #实验结果
 ```
-![img](https://github.com/10shi104shi414shi1440shi40/java-/blob/main/img/1.png)
+private int speed;
+        int jincheng;
+        double liyonglv;
 ```
-
+![img](https://github.com/10shi104shi414shi1440shi40/java-/blob/main/img/1.png)
 cpu速度:2200
 cpu进程数:160
 cpu利用率:0.11
